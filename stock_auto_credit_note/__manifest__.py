@@ -24,6 +24,7 @@ Features:
 - Invoice smart button on the original delivery shows linked invoices.
     """,
     'author': 'Dvija Technologies',
+    'images': ['static/description/banner.jpg'],
     'depends': ['stock', 'account', 'sale_stock'],
     'data': [
         'security/ir.model.access.csv',
